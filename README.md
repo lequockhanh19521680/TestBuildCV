@@ -1,4 +1,4 @@
-###BACK-END
+## BACK-END
 # Read Me First
 The following was discovered as part of building this project:
 
@@ -28,7 +28,7 @@ These additional references should also help you:
 
 
 
-####FRONT-END
+## FRONT-END
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
